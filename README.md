@@ -1,0 +1,1 @@
+This is a time series forecasting model using SARIMA to predict retail sales. It uses data from the RetailSalesData csv file to make the predictions. To run the code on your device, replace the file path in line 6 with the file path on your computer.
